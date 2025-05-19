@@ -1,1 +1,234 @@
 # khaldi.github.io
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV Mohamed Ali Khaldi - Marketing Digital</title>
+
+<!-- Polices Google -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
+<!-- Icônes Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Animation CSS -->
+<link rel="stylesheet"  href="style.css">
+
+</head>
+<body>
+<div class="cv-container">
+<header class="header">
+<h1 class="animate__animated animate__fadeInDown">MOHAMED ALI KHALDI</h1>
+<h2 class="animate__animated animate__fadeInDown animate__delay-1s">Alternant en Marketing Digital & Performance Commerciale</h2>
+
+<div class="contact-info">
+<div class="contact-item animate__animated animate__fadeIn animate__delay-1s">
+<i class="fas fa-map-marker-alt"></i>
+<span>Marseille / Aubagne</span>
+</div>
+<div class="contact-item animate__animated animate__fadeIn animate__delay-1s">
+<i class="fas fa-phone"></i>
+<span>06 58 89 80</span>
+</div>
+<div class="contact-item animate__animated animate__fadeIn animate__delay-1s">
+<i class="fas fa-envelope"></i>
+<span>khaldinohamedali@gmail.com</span>
+</div>
+<div class="contact-item animate__animated animate__fadeIn animate__delay-1s">
+<i class="fab fa-linkedin"></i>
+<span>linkedin.com/in/votreprofil</span>
+</div>
+</div>
+</header>
+
+<section class="section">
+<h2 class="section-title">
+<i class="fas fa-user"></i>
+<span>Profil</span>
+</h2>
+<p>Étudiant motivé en Marketing Digital et Performance Commerciale, je combine des compétences techniques en développement web avec une passion pour les stratégies digitales. Polyglotte, je recherche une alternance pour mettre en pratique mes connaissances en analyse de données et en création de campagnes tout en validant mon diplôme Bac+3.
+</p>
+</section>
+
+<section class="section">
+<h2 class="section-title">
+<i class="fas fa-graduation-cap"></i>
+<span>Formation</span>
+</h2>
+
+<div class="timeline-item">
+<div class="timeline-date">2023 - 2024</div>
+<div class="timeline-content">
+<h3>Bachelor Marketing Digital & Performance Commerciale</h3>
+<h4>ISCOD / École partenaire - Marseille</h4>
+<ul>
+<li>Spécialisation en analyse de données et campagnes digitales</li>
+<li>Gestion de projet marketing</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2022 - 2023</div>
+<div class="timeline-content">
+<h3>Développeur Web & Mobile</h3>
+<h4>SIMPLON - Marseille</h4>
+<ul>
+<li>HTML5, CSS3, JavaScript, Python</li>
+<li>Création de sites e-commerce</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2021</div>
+<div class="timeline-content">
+<h3>Techniques de Commercialisation</h3>
+<h4>IUT Saint-Jérôme - Marseille</h4>
+</div>
+</div>
+</section>
+
+<section class="section">
+<h2 class="section-title">
+<i class="fas fa-briefcase"></i>
+<span>Expérience Professionnelle</span>
+</h2>
+
+
+
+<div class="timeline-item">
+<div class="timeline-date">2022</div>
+<div class="timeline-content">
+<h3>Chef D'équipe Agent de Sécurité</h3>
+<h4>YOUNG - Marseille</h4>
+<ul>
+<li>Conception d'interface utilisateur (HTML/CSS)</li>
+<li>Optimisation SEO basique</li>
+<li>Collaboration avec l'équipe marketing</li>
+</ul>
+</div>
+</div>
+
+
+<div class="timeline-item">
+<div class="timeline-date">2023</div>
+<div class="timeline-content">
+<h3>Stage - Création d'un site internet</h3>
+<h4>YOUNG - Marseille</h4>
+<ul>
+<li>Conception d'interface utilisateur (HTML/CSS)</li>
+<li>Optimisation SEO basique</li>
+<li>Collaboration avec l'équipe marketing</li>
+</ul>
+</div>
+</div>
+
+<div class="timeline-item">
+<div class="timeline-date">2024</div>
+<div class="timeline-content">
+<h3>Chef de rayon Fruits et Légumes</h3>
+<h4>Cedisprim - Aubagne</h4>
+<ul>
+<li>Gestion des stocks et des approvisionnements</li>
+<li>Mise en place du merchandising (produits bien présentés et attractifs)</li>
+<li>Suivi des indicateurs de performance (CA, marge, démarque…)</li>
+</ul>
+</div>
+</div>
+
+
+
+</section>
+
+<section class="section">
+<h2 class="section-title">
+<i class="fas fa-code"></i>
+<span>Compétences</span>
+</h2>
+
+<h3>Marketing Digital</h3>
+<div class="skills-container">
+<div class="skill-badge primary">Stratégie de contenu</div>
+<div class="skill-badge primary">SEO</div>
+<div class="skill-badge primary">Réseaux sociaux</div>
+<div class="skill-badge">Google Analytics</div>
+<div class="skill-badge">Publicité en ligne</div>
+<div class="skill-badge">Email marketing</div>
+</div>
+
+<h3 style="margin-top: 20px;">Développement Web</h3>
+<div class="skills-container">
+<div class="skill-badge">HTML/CSS</div>
+<div class="skill-badge">JavaScript</div>
+<div class="skill-badge">Python</div>
+<div class="skill-badge">UX/UI basics</div>
+</div>
+
+<h3 style="margin-top: 20px;">Soft Skills</h3>
+<div class="skills-container">
+<div class="skill-badge">Adaptabilité</div>
+<div class="skill-badge">Esprit d'équipe</div>
+<div class="skill-badge">Créativité</div>
+<div class="skill-badge">Sens analytique</div>
+</div>
+</section>
+
+<section class="section" style="border-bottom: none;">
+<h2 class="section-title">
+<i class="fas fa-heart"></i>
+<span>Centres d'intérêt</span>
+</h2>
+<div class="interests-container">
+<div class="interest-item">
+<div class="interest-icon">
+<i class="fas fa-chart-line"></i>
+</div>
+<span class="interest-name">Veille marketing</span>
+</div>
+<div class="interest-item">
+<div class="interest-icon">
+<i class="fas fa-basketball-ball"></i>
+</div>
+<span class="interest-name">Sports</span>
+</div>
+<div class="interest-item">
+<div class="interest-icon">
+<i class="fas fa-plane"></i>
+</div>
+<span class="interest-name">Voyages</span>
+</div>
+<div class="interest-item">
+<div class="interest-icon">
+<i class="fas fa-laptop-code"></i>
+</div>
+<span class="interest-name">Tech</span>
+</div>
+</div>
+</section>
+
+<div class="signature">Mohamed Ali Khaldi</div>
+<div class="wave-footer"></div>
+</div>
+
+<!-- Script pour les animations au scroll -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+const sections = document.querySelectorAll('.section');
+
+const observer = new IntersectionObserver((entries) => {
+entries.forEach(entry => {
+if (entry.isIntersecting) {
+entry.target.style.opacity = 1;
+}
+});
+}, { threshold: 0.1 });
+
+sections.forEach(section => {
+observer.observe(section);
+});
+});
+</script>
+</body>
+</html>
