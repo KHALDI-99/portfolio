@@ -377,12 +377,3 @@ opacity: 0;
 animation: fadeIn 1s forwards 1.8s;
 }
 
-.center-wrapper {
-  display: flex;
-  justify-content: center; /* centre horizontalement */
-  align-items: center;     /* centre verticalement */
-  height: 100vh;           /* prend toute la hauteur de la fenêtre */
-  padding: 20px;
-  box-sizing: border-box;
-  text-align: center;      /* centre le texte à l’intérieur */
-}
