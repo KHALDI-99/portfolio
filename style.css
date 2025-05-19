@@ -377,3 +377,13 @@ opacity: 0;
 animation: fadeIn 1s forwards 1.8s;
 }
 
+.custom-link {
+  color: inherit;             /* garde la couleur du texte autour */
+  text-decoration: none;      /* enlève le soulignement */
+}
+
+/* Optionnel : couleur personnalisée au survol */
+.custom-link:hover {
+  color: #ff6600;             /* couleur de survol par exemple orange */
+}
+
