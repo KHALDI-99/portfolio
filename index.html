@@ -1,12 +1,14 @@
 
 <!DOCTYPE html>
 <html lang="fr">
+
+
 <head>
 <meta charset="UTF-8">
-  <link rel="icon" type="image/png" href="favicon.jpg">
+<link rel="icon" type="image/png" href="favicon.jpg">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title> CV Mohamed Ali Khaldi - Marketing Digital</title>
-
 <!-- Polices Google -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 
@@ -15,8 +17,10 @@
 
 <!-- Animation CSS -->
 <link rel="stylesheet"  href="style.css">
-
 </head>
+
+
+
 <body>
 <div class="cv-container">
 <header class="header">
@@ -229,27 +233,13 @@
 
 </section>
 
-<div class="signature">Mohamed Ali Khaldi</div>
+<div class="signature">Mohamed Ali KHALDI</div>
 <div class="wave-footer"></div>
 </div>
 
-<!-- Script pour les animations au scroll -->
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-const sections = document.querySelectorAll('.section');
 
-const observer = new IntersectionObserver((entries) => {
-entries.forEach(entry => {
-if (entry.isIntersecting) {
-entry.target.style.opacity = 1;
-}
-});
-}, { threshold: 0.1 });
-
-sections.forEach(section => {
-observer.observe(section);
-});
-});
-</script>
+<!-- Bouton Retour en haut -->
+<button id="backToTop" aria-label="Retour en haut">⬆</button>
+<script src="script.js"></script>
 </body>
 </html>
